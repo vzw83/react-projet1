@@ -8,16 +8,11 @@ const MyPosts = () => {
       my posts
       <div>
         <textarea></textarea>
-        <button>Жми</button>
+        <button>Жмии</button>
       </div>
-      <div className={s.posts}>
-        
-        <Post/>
-        <Post/>
-        <Post/>
-        <Post/>
-        <Post/>
-        <Post/>
+      <div className={s.posts}>        
+        <Post message="Привет, как твои дела?" />
+        <Post message="привет, это мой певый пост!"/>
       </div>
     </div>
   );
