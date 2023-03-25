@@ -1,0 +1,16 @@
+.nav {
+  padding: 20px 20px;
+  grid-area: n;
+  background-color: rgb(113, 113, 126);
+  border: 2px solid #000;
+}
+.item {
+  color: aliceblue;
+  margin-bottom: 5px;
+  cursor: pointer;
+}
+
+.active{
+  color: red;
+}
+
