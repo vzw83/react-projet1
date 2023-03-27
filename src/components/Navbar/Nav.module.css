@@ -3,6 +3,7 @@
   grid-area: n;
   background-color: rgb(113, 113, 126);
   border: 2px solid #000;
+  border-radius: 10px;
 }
 .item {
   color: aliceblue;

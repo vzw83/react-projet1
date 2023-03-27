@@ -3,6 +3,7 @@
   grid-area: h;
   background-color: rgb(107, 171, 107);
   border: 2px solid #000;
+  border-radius: 10px;
 }
 
 .header img {
